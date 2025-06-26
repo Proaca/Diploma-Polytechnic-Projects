@@ -7,15 +7,17 @@ Here you'll find practical, hands-on project guidance for polytechnic students, 
 
 ## 🚀 Featured Projects
 
-| Project Name                       | Description                                                                              | Technologies          | Icon           |
-|-------------------------------------|------------------------------------------------------------------------------------------|----------------------|----------------|
-| 📚 **Simple Library Management System** | Manage book issuance, returns, and library members.                                       | Java Swing / Web     | ![📚](#)       |
-| ⏰ **Digital Clock with Alarm**         | A clock that displays current time and can set alarms.                                   | Java / JS / HTML/CSS | ![⏰](#)       |
-| 🎒 **Student Information System**       | Store, update, and display student records.                                              | Java Swing / Web     | ![🎒](#)       |
-| 🛒 **Basic E-commerce Website**        | Simple online store with product listings and cart functionality.                        | HTML/CSS/JS          | ![🛒](#)       |
-| 🏥 **Hospital Management System**       | Manage patient records, doctor info, and appointments.                                   | Java / Web           | ![🏥](#)       |
-| 💼 **Personal Portfolio Website**       | Showcase your work, resume, and contact details online.                                  | HTML/CSS/JS          | ![💼](#)       |
-| 🧮 **Simple Calculator App**            | Perform basic arithmetic operations with a simple interface.                             | Java / JS / HTML/CSS | ![🧮](#)       |
+| Project Name                       | Description                                                                              | Demo Icon (Click to Visit)                     |
+|-------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------|
+| **Simple Library Management System** | Manage book issuance, returns, and library members.                                       | [📚](./library-management/)                    |
+| **Digital Clock with Alarm**         | A clock that displays current time and can set alarms.                                   | [⏰](./digital-clock-alarm/)                   |
+| **Student Information System**       | Store, update, and display student records.                                              | [🎒](./student-info-system/)                   |
+| **Basic E-commerce Website**        | Simple online store with product listings and cart functionality.                        | [🛒](./e-commerce-website/)                    |
+| **Hospital Management System**       | Manage patient records, doctor info, and appointments.                                   | [🏥](./hospital-management/)                   |
+| **Personal Portfolio Website**       | Showcase your work, resume, and contact details online.                                  | [💼](./portfolio-website/)                     |
+| **Simple Calculator App**            | Perform basic arithmetic operations with a simple interface.                             | [🧮](./simple-calculator/)                     |
+
+> _Click on any project icon to view its details and source code!_
 
 ---
 
