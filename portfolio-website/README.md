@@ -93,8 +93,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Contact
 
 Created by **ProAca**  
-- ✉️ Email: [proacainfo@gmail.com](mailto:info@proaca.in)  
-- 🌐 Website: [proaca.netlify.app](https://proaca.in)
+- ✉️ Email: [info@proaca.in](mailto:info@proaca.in)  
+- 🌐 Website: [https://proaca.in](https://proaca.in)
 
 ---
 
